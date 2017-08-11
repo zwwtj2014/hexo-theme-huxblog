@@ -3,25 +3,25 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Kaijun's Blog
-subtitle: To Be A Lean Developer!
-author: Kaijun Chen
+title: FD
+subtitle: Console
+author: Coderz
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://kaijun.rocks/hexo-theme-huxblog
-root: /hexo-theme-huxblog/
+url: http://www.fdconsole.com
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 #Custom Setting Start
 
 # Site settings
-SEOTitle: Kaijun的博客 | Kaijun's Blog
-header-img: img/home-bg.jpg
-email: Kaijun.cn@gmail.com
+SEOTitle: Coderz的博客 | Coderz's Blog
+header-img: img/bg-header.jpg
+email: coderzww@gmail.com
 description: ""
 keyword: ""
 
@@ -40,7 +40,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 
 # Disqus settings
-disqus_username: hexo-theme-huxblog
+disqus_username:
 
 # Duoshuo settings
 # duoshuo_username: kaijun
@@ -70,18 +70,6 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Kaijun's Blog",
-        href: "http://blog.kaijun.rocks"
-    },{
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
         title: "Example Friends",
         href: "#"
     },{
